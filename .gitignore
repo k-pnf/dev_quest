@@ -20,8 +20,8 @@ stats.html
 graph.svg
 ./__temp*
 *.tsbuildinfo
-__temp*
 *.tgz
+__temp*
 
 # Editor directories and files
 # .vscode вне git: tasks.json, settings.json, launch.json и mcp.json могут запускать команды
